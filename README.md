@@ -65,9 +65,9 @@ Each project folder contains:
 
 | Project Name | Description | Completion | Resources |
 |--------------|------------|------------|-----------|
-| [HelloWorld]() | Simple “Hello, Ada” program | 100% | *Page 4*: **Ada – A Crash Course** by Peter Chapin (Vermont Technical College, July 27, 2015) |
-| [DirectHelloWorld]() | Demonstrates the `use` clause to make identifiers directly visible | 100% | *Page 4*: **Ada – A Crash Course** by Peter Chapin |
-| [PrimeCheckingProgram]() | Accepts an integer from the user and determines whether it is a prime number | 50% | *Page 6*: **Ada – A Crash Course** by Peter Chapin |
+| [HelloWorld](https://github.com/LoneStamp/Ada_Projects/tree/main/projects/completion-projects/HelloWorld) | Simple “Hello, Ada” program | 100% | *Page 4*: **Ada – A Crash Course** by Peter Chapin (Vermont Technical College, July 27, 2015) |
+| [DirectHelloWorld](https://github.com/LoneStamp/Ada_Projects/tree/main/projects/completion-projects/DirectHelloWorld) | Demonstrates the `use` clause to make identifiers directly visible | 100% | *Page 4*: **Ada – A Crash Course** by Peter Chapin |
+| [PrimeCheckingProgram](https://github.com/LoneStamp/Ada_Projects/tree/main/projects/completion-projects/PrimeCheckingProgram) | Accepts an integer from the user and determines whether it is a prime number | 50% | *Page 6*: **Ada – A Crash Course** by Peter Chapin |
 
 ---
 
