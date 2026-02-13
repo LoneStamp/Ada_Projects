@@ -78,7 +78,7 @@ This section will include original projects built independently as I deepen my u
 
 | Project Name | Description | Status |
 |--------------|------------|--------|
-| _(Coming Soon)_ | — | — |
+| [Ping](https://github.com/LoneStamp/Ada_Projects/tree/main/projects/my-projects/Ping) | Simple ping utility | 10% |
 
 ---
 

@@ -1,14 +1,7 @@
 <?xml version="1.0"?>
 <Locations >
-  <Project >
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project />
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 16" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
+  <Project>
+    <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_file>
     <file_marker column=" 1" line=" 1" >
       <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
       <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
@@ -17,55 +10,91 @@
       <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
       <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 36" line=" 2" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 1" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 33" line=" 9" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 36" line=" 2" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 1" line=" 3" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 32" line=" 22" >
-      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
-    </file_marker>
-    <file_marker column=" 14" line=" 4" >
+    <file_marker column=" 1" line=" 9" >
       <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
       <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
     </file_marker>
     <file_marker column=" 1" line=" 1" >
       <vfs_project />
-      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
     </file_marker>
-    <file_marker column=" 21" line=" 4" >
+    <file_marker column=" 1" line=" 22" >
       <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
       <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
     </file_marker>
-    <file_marker current="true" column=" 10" line=" 23" >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 13" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 13" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
       <vfs_project>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\default.gpr</vfs_project>
       <vfs_file>C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\my-projects\Ping\src\ping.adb</vfs_file>
     </file_marker>
