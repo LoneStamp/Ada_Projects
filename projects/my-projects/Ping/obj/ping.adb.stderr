@@ -1,0 +1,8 @@
+ping.adb:23:10: error: no candidate interpretations match the actuals:
+ping.adb:23:10: error: too many arguments in call to "Send_Socket"
+ping.adb:23:31: error: expected type "Ada.Streams.Stream_Element_Array"
+ping.adb:23:31: error: found type "Standard.String"
+ping.adb:23:31: error:   ==> in call to "Send_Socket" at g-socket.ads:1292
+ping.adb:23:31: error:   ==> in call to "Send_Socket" at g-socket.ads:1265
+ping.adb:26:10: error: "Recieve_Socket" is undefined
+ping.adb:26:10: error: possible misspelling of "Receive_Socket"
