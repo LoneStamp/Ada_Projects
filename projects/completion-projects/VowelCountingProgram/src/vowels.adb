@@ -10,18 +10,20 @@ begin
    while not End_Of_File loop
       Get(Letter);
       case Letter is
-         when 'A'|'E'|'I'|'O'|'U' |
+         when 'A'|'E'|'O'|'U'|
             'a'|'e'|'i'|'o'|'u' =>
             Vowel_Count := Vowel_Count + 1;
 
          when 'Y'|'y' =>
-            Y_Count := Y_Count + 1;
+              Y_Count := Y_Count + 1;
 
-         when others =>
+            when others =>
             null;
-         end case;
-      end loop;
+      end case;
+   end loop;
+   Put("Total number of vowels ="); Put(Vowel_Count); New_Line;
+   Put("Total number of Ys ="); Put(Y_Count); New_Line;
+   end Vowels;
 
-      Put("Total numbers of vowel = "); Put(Vowel_Count); New_Line;
-      Put("Total number of Ys = "); Put(Y_Count); New_Line;
-end Vowels;
+
+

@@ -23,7 +23,7 @@ package ada_main is
    GNAT_Version_Address : constant System.Address := GNAT_Version'Address;
    pragma Export (C, GNAT_Version_Address, "__gnat_version_address");
 
-   Ada_Main_Program_Name : constant String := "_ada_vowels" & ASCII.NUL;
+   Ada_Main_Program_Name : constant String := "_ada_prime_two" & ASCII.NUL;
    pragma Export (C, Ada_Main_Program_Name, "__gnat_ada_main_program_name");
 
    procedure adainit;
@@ -40,8 +40,8 @@ package ada_main is
    pragma Export (C, main, "main");
 
    type Version_32 is mod 2 ** 32;
-   u00001 : constant Version_32 := 16#78931615#;
-   pragma Export (C, u00001, "vowelsB");
+   u00001 : constant Version_32 := 16#91bda1d8#;
+   pragma Export (C, u00001, "prime_twoB");
    u00002 : constant Version_32 := 16#2e11c0b1#;
    pragma Export (C, u00002, "system__standard_libraryB");
    u00003 : constant Version_32 := 16#664ecad3#;
@@ -455,7 +455,7 @@ package ada_main is
    --  ada.text_io.generic_aux%b
    --  ada.integer_text_io%s
    --  ada.integer_text_io%b
-   --  vowels%b
+   --  prime_two%b
    --  END ELABORATION ORDER
 
 end ada_main;

@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__prime_two.o
+[PROJECT FILES]
+C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\completion-projects\PrimeCheckingProgram2\default.gpr
+20260218064704 cd715c04c1fc2b8ebe05e3b886e01d2a
+[BOUND OBJECT FILES]
+C:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\completion-projects\PrimeCheckingProgram2\obj\prime_two.o
+[GENERATED SOURCE FILES]
+b__prime_two.ads
+b__prime_two.adb
+b__prime_two.ali
+[RESULTING OPTIONS]
+-LC:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\completion-projects\PrimeCheckingProgram2\obj\
+-LC:\Users\Vilma E. Agripo\Documents\JednazLonestamp\Projects\Computer.Programs\ProgrammingLanguage\Ada_Learning\Ada_Projects\projects\completion-projects\PrimeCheckingProgram2\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
